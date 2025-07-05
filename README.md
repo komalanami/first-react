@@ -1,6 +1,6 @@
 # Here is the glimpse of UI
 
-![UI Screenshot](./ReactUI.png)
+![UI Screenshot](./public/ReactUI.png)
 
 ## Getting Started with Create React App
 
