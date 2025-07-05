@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Here is the glimpse of UI
+
+![UI Screenshot](./ReactUI.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
